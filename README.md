@@ -31,7 +31,7 @@ Projekt został w całości przygotowany w języku Python. Główne wykorzystane
 ## Jak uruchomić projekt
 1. Sklonuj repozytorium na swój dysk.
 2. Upewnij się, że masz zainstalowane środowisko Python z pakietami wymienionymi wyżej.
-3. Projekt był tworzony z myślą o środowisku Google Colab. Jeśli chcesz go tam uruchomić, wywołaj pierwszą komórkę z google.colab.files.upload() i wgraj pliki .csv.
+3. Projekt był tworzony z myślą o środowisku Google Colab. Jeśli chcesz go tam uruchomić, wywołaj pierwszą komórkę z google.colab.files.upload() i wgraj plik .csv.
 4. Aby uruchomić go lokalnie, wystarczy umieścić plik `data.csv` w jednym folderze z notatnikiem i pominąć komórkę odpowiedzialną za upload.
 5. Uruchamiaj kolejne komórki kodu.
 
